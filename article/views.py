@@ -85,4 +85,9 @@ def addComment(request,id):
     return redirect(reverse("article:detail",kwargs={"id":id}))
 
 
+
 #test for git 2
+
+#test for git 1
+    
+
