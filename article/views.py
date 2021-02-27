@@ -86,7 +86,7 @@ def addComment(request,id):
 
 
 def M2():
-    
+    pass
 
 def M1():
     pass
