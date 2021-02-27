@@ -85,8 +85,10 @@ def addComment(request,id):
     return redirect(reverse("article:detail",kwargs={"id":id}))
 
 
+
 def M2():
     pass
 
 def M1():
     pass
+
