@@ -92,6 +92,6 @@ def addComment(request,id):
 
 #test for git 3
 
-def m1():
+def m3():
     pass
 
