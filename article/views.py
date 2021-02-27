@@ -88,7 +88,9 @@ def addComment(request,id):
 
 def M2():
     print("------------")
+    print("p2222222222")
 
 def M1():
     print("==============")
+    print("p222222222")
 
