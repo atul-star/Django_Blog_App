@@ -86,11 +86,6 @@ def addComment(request,id):
 
 
 
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
->>>>>>> 7a82437a26aa136df352a92b9e5389db1dd1c456
 def M2():
     print("------------")
     print("p2222222222")
