@@ -92,7 +92,11 @@ def M2():
     print("bbbbbbbbbb")
     print("aaaaaaaaaaa")
     print("ccccccccccc")
+<<<<<<< Updated upstream
     print("ggggggggg")
+=======
+    print("hhhhhhhhhh")
+>>>>>>> Stashed changes
 
 
 def M1():
@@ -102,14 +106,22 @@ def M1():
     print("bbbbbbbbbbb")
     print("aaaaaaaaaa")
     print("cccccccccccc")
+<<<<<<< Updated upstream
     print("gggggggggg")
+=======
+    print("hhhhhhhhhhh")
+>>>>>>> Stashed changes
 
 
 def m3():
     print("ddddddddddddddddd")
     print("fffffffffffff")
     print("eeeeeeeeeeeeeeeee")
+<<<<<<< Updated upstream
     print("gggggggggggggggg")
+=======
+    print("hhhhhhhhhhhhhhhh")
+>>>>>>> Stashed changes
 
 
 
