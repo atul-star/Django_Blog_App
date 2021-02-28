@@ -86,35 +86,12 @@ def addComment(request,id):
 
 
 
-def M2():
-    print("------------")
-    print("p2222222222")
-    print("bbbbbbbbbb")
-    print("aaaaaaaaaaa")
-    print("ccccccccccc")
-    print("ggggggggg")
-    print("hhhhhhhhhh")
 
 
 
-def M1():
-    print("==============")
-    print("p222222222")
-    print("p111111111111")
-    print("bbbbbbbbbbb")
-    print("aaaaaaaaaa")
-    print("cccccccccccc")
-    print("gggggggggg")
-    print("hhhhhhhhhhh")
 
 
 
-def m3():
-    print("ddddddddddddddddd")
-    print("fffffffffffff")
-    print("eeeeeeeeeeeeeeeee")
-    print("gggggggggggggggg")
-    print("hhhhhhhhhhhhhhhh")
 
 
 
