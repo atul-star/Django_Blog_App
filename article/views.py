@@ -113,11 +113,9 @@ def m3():
     print("ddddddddddddddddd")
     print("fffffffffffff")
     print("eeeeeeeeeeeeeeeee")
-<<<<<<< Updated upstream
     print("gggggggggggggggg")
-=======
     print("hhhhhhhhhhhhhhhh")
->>>>>>> Stashed changes
+
 
 
 
