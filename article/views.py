@@ -86,6 +86,7 @@ def addComment(request,id):
 
 
 
+<<<<<<< HEAD
 def M2():
     print("------------")
     print("p2222222222")
@@ -103,5 +104,15 @@ def M1():
     print("cccccccccccc")
 
 
+
+
+#test for git 2
+
+#test for git 1
+
+#test for git 3
+
+def m3():
+    pass
 
 
