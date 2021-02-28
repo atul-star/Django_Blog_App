@@ -113,21 +113,12 @@ def m3():
     print("ddddddddddddddddd")
     print("fffffffffffff")
     print("eeeeeeeeeeeeeeeee")
-<<<<<<< Updated upstream
     print("gggggggggggggggg")
-=======
     print("hhhhhhhhhhhhhhhh")
->>>>>>> Stashed changes
 
 
 
 
-
-#test for git 2
-
-#test for git 1
-
-#test for git 3
 
 
 
