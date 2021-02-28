@@ -92,6 +92,7 @@ def M2():
     print("bbbbbbbbbb")
     print("aaaaaaaaaaa")
     print("ccccccccccc")
+    print("ggggggggg")
 
 
 def M1():
@@ -101,11 +102,13 @@ def M1():
     print("bbbbbbbbbbb")
     print("aaaaaaaaaa")
     print("cccccccccccc")
+    print("gggggggggg")
 
 
 def m3():
     print("ddddddddddddddddd")
     print("eeeeeeeeeeeeeeeee")
+    print("gggggggggggggggg")
 
 
 
